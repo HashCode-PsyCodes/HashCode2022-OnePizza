@@ -3,8 +3,8 @@ using namespace std;
 
 int main() {
 
-  freopen("input.txt", "r", stdin);
-  freopen("output.txt", "w", stdout);
+  freopen("input - a (example).txt", "r", stdin);
+  freopen("output - a (example).txt", "w", stdout);
 
   int numOfCus;
 
